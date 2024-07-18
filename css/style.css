@@ -1,0 +1,15 @@
+h1{
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
+div{
+    display: flex;
+    justify-content: center;
+}
+img{
+    padding: 5% 5% 5% 5%;
+}
+p{
+    padding: 0% 5% 1% 5%;
+}
